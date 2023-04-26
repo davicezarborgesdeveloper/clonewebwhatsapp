@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "989234656465",
+    "project_id": "webwhatsappsystem",
+    "storage_bucket": "webwhatsappsystem.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:989234656465:android:8b9650584c21f4776b81f0",
+        "android_client_info": {
+          "package_name": "br.com.dcbsystem.webwhatsappsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "989234656465-8vmd2qd6o9os19cbgr93n72ccrfdu5mo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtRcyh40kajoeQdBhEhKhbjvb5-GAMJEM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "989234656465-8vmd2qd6o9os19cbgr93n72ccrfdu5mo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "989234656465-7eq9g6kd6euoslancq6jfcau48kt4m62.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "br.com.dcbsystem.webwhatsappsystem"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
